@@ -11,7 +11,7 @@ USE pt-students-07-31-24;
 
 DROP TABLE IF EXISTS dbo.Customers_GP 
 
-CREATE TABLE dbo.Customer_GP (
+CREATE TABLE dbo.Customers_GP (
     CustomerID INT PRIMARY KEY, 
     FirstName varchar(30),
     LastName varchar(30),
